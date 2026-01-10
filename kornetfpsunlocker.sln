@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
 VisualStudioVersion = 18.1.11312.151 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kornetfpsunlocker", "Source\caelusfpsunlocker.vcxproj", "{6432293C-4C2F-4335-8C23-34F4C68B1F42}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kornetfpsunlocker", "Source\kornetfpsunlocker.vcxproj", "{6432293C-4C2F-4335-8C23-34F4C68B1F42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,3 +29,4 @@ Global
 		SolutionGuid = {8F0BC8D2-4216-493E-8915-CEEACFCA36C8}
 	EndGlobalSection
 EndGlobal
+
